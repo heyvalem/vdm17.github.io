@@ -1,0 +1,68 @@
+:root{
+
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+
+    font-size: 62.5%;
+    font-family:   'Lato', sans-serif;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../Assets/depositphotos_11371387-stock-photo-paper-texture.jpg");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.landing_page__main{
+    position: relative;
+    width: 85%;
+    height: 90%;
+    max-height: 450px;
+    max-width: 300px;
+    margin: 8% auto;
+    background-image: url("../Assets/Recurso\ 2ffff.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.personal_picture__container{
+position: absolute;
+background-image: url("../Assets/Valentina_Picture\ \(2\).png");
+background-repeat: no-repeat;
+height: 100%;
+width: 100%;
+}
+
+.main-tittle--container{
+ position: relative;
+ text-align: center;
+ top: 230px
+}
+
+.button-chart-container {
+ position: relative;
+ text-align: center;
+ top: 230px
+}
+
+#ig_account__p {
+    position: relative;
+    padding: 0 auto;
+    top: 275px;
+    
+}
+
+
+
+
