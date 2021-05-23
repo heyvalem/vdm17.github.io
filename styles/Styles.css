@@ -6,7 +6,7 @@
 
 html{
     font-size: 62.5%;
-    font-family:   'Lato', sans-serif;
+    font-family:'Lato', sans-serif;
 }
 
 html a {
@@ -17,7 +17,7 @@ html a {
 body{
     width: 100vw;
     height: 100vh;
-    background-image: url("../Assets/vecteezy_crumpled-paper-texture_1227306\ \(1\).jpg");
+    background-image: url("../Assets/Mesa\ de\ trabajo\ 1VR.jpg");
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
